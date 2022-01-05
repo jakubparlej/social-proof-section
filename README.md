@@ -22,7 +22,7 @@ Project is created with:
 
 ## Acknowledgements
 
-This is challenge from [frontentmentor.io](https://www.frontendmentor.io/challenges/social-proof-section-6e0qTv_bA)
+This is the challenge from [frontendmentor.io](https://www.frontendmentor.io/challenges/social-proof-section-6e0qTv_bA)
 
 ## Contact
 
